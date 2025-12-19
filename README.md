@@ -30,21 +30,6 @@ The system processes live or recorded customer calls, identifies speakers, perfo
 
 ---
 
-## 🏗️ System Architecture
-         Audio Input
-              ↓
-    Whisper (Speech-to-Text)
-              ↓
-   Speaker Diarization (Resemblyzer)
-              ↓
-         NLP Analysis
-(  Sentiment, Intent, Entities)
-              ↓
-   Real-Time Sales Suggestions
-
-   
----
-
 ## 🧰 Technology Stack
 
 | Component | Technology |
