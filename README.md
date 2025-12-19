@@ -35,7 +35,7 @@ The system processes live or recorded customer calls, identifies speakers, perfo
               ↓
     Whisper (Speech-to-Text)
               ↓
-Speaker Diarization (Resemblyzer)
+ Speaker Diarization (Resemblyzer)
               ↓
          NLP Analysis
 (  Sentiment, Intent, Entities)
